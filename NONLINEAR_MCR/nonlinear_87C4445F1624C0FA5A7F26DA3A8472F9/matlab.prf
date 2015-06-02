@@ -1,0 +1,20 @@
+#MATLAB Preferences
+#Wed May 06 10:16:51 MDT 2009
+FileBrowserFiveColumnWidths=S[150 100 75 150 400]
+ReplaceMatchCase=Bfalse
+ReplaceWordWrap=Bfalse
+MatlabExitConfirm=Bfalse
+RLPrevInitB2_null=Btrue
+ReplaceWholeWord=Bfalse
+EditorMRU9=S
+EditorMRU8=S
+EditorMRU7=S
+MatlabErrorLogReportTime=J4694550938364929326
+EditorMRU6=S
+EditorMRU5=S
+EditorMRU4=SC:\\Documents and Settings\\timothy.hahn1\\Desktop\\RWASIMULATOR\\MATLAB_LIB\\BUILD_LIB\\load_libfwm_database.m
+EditorMRU3=SC:\\Documents and Settings\\timothy.hahn1\\Desktop\\RWASIMULATOR\\MATLAB_LIB\\BUILD_LIB\\check_last_fwm_inputs.m
+EditorMRU2=SC:\\Documents and Settings\\timothy.hahn1\\Desktop\\RWASIMULATOR\\MATLAB_LIB\\BUILD_LIB\\build_lib_fwm_database.m
+CommandWindowClearConfirmation=Btrue
+EditorMRU1=SC:\\Documents and Settings\\timothy.hahn1\\Desktop\\RWASIMULATOR\\MATLAB_LIB\\BUILD_LIB\\build_lib.m
+FileBrowserFiveColumnOrder=S[0 1 2 3 4]

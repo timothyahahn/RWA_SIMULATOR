@@ -1,0 +1,30 @@
+arrival_interval=250	the inter arrival time on each workstation
+duration=250		the duration time of one connection
+nonlinear_halfwin=20	the total nonlinear_win is 2*M+1
+halfwavelength=80	the total wavelength is 2N+1
+fc=193.1e+12		center of the wavelength comb
+f_step=50e+9		step of the wavelength comb
+channel_power=1e-3,1.5e-3,2e-3	power per channel
+L=80			length of the NZDSF in each span
+alphaDB=0.25		attenuation of NZDSF in each span
+D=4e-3			dispersion of NZDSF in each span
+S=8e+4			disperison slop of NZDSF in each span
+gamma=2.6,2.75,2.9			nonlinear coefficent of NZDSF in each span
+QFactor_factor=0.95,0.80,0.65	factor of max min Q factor for the threshold
+EDFA_Noise_Figure=3.5,3.0,2.5	Noise figure of the EDFA
+EDFA_Gain=21.6			Gain of the EDFA
+B_w=10e9				Optical bandwidth of the signal channel
+usage_update_interval=0.5	the interval between update usage
+gui_update_interval=6	the interval between update gui
+beta=1.2				beta value for PABR and LORA
+refractive_index=1.5	the refractive index of the optical links
+q_factor_stats=1	should the program calculate the Q-factor stats (1=yes,0=no)
+detailed_log=0		should the program keep a detailed log (1=yes,0=no)
+DP_alpha=1.0		Alpha value for dynamic programming
+ACO_ants=20			number of ants in each ACO iteration
+ACO_alpha=1			the pheromone power index for ACO
+ACO_beta=5			the heuristic information power index for ACO
+ACO_rho=0.1			the pheromone evaporation rate for ACO
+MM_ACO_gamma=0.1	the min-max pheromone ratio for MM ACO (0,1)
+MM_ACO_N_iter=20	the number of iterations for stagnation for MM ACO
+MM_ACO_N_reset=2	the number of reinitialization times for MM ACO

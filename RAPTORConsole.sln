@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KShortestPath", "KSHORTESTPATH_1.0.3\KShortestPath.vcproj", "{1BDAD29D-A176-4114-8ADB-AC3FF5CA12A7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RWASimulator", "RAPTORConsole.vcproj", "{6E2424C1-7CA3-4430-8648-970445ACB0A1}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1BDAD29D-A176-4114-8ADB-AC3FF5CA12A7} = {1BDAD29D-A176-4114-8ADB-AC3FF5CA12A7}
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4E2DD31B-A895-4C97-9089-732C49073430}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BDAD29D-A176-4114-8ADB-AC3FF5CA12A7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1BDAD29D-A176-4114-8ADB-AC3FF5CA12A7}.Debug|Win32.Build.0 = Debug|Win32
+		{1BDAD29D-A176-4114-8ADB-AC3FF5CA12A7}.Release|Win32.ActiveCfg = Release|Win32
+		{1BDAD29D-A176-4114-8ADB-AC3FF5CA12A7}.Release|Win32.Build.0 = Release|Win32
+		{6E2424C1-7CA3-4430-8648-970445ACB0A1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6E2424C1-7CA3-4430-8648-970445ACB0A1}.Debug|Win32.Build.0 = Debug|Win32
+		{6E2424C1-7CA3-4430-8648-970445ACB0A1}.Release|Win32.ActiveCfg = Release|Win32
+		{6E2424C1-7CA3-4430-8648-970445ACB0A1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
